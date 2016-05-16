@@ -1,6 +1,10 @@
 # easeScroll
 this is a jquery plugin to make elements position fix with scroll animation.
 
+Demo
+==
+[Click here to see demo](http://kookweb.github.io/easeScroll/)
+
 How it works
 ==
 
